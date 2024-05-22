@@ -30,7 +30,7 @@ option(GLM_ENABLE_CXX_98 "Enable C++ 98" OFF)
 option(GLM_ENABLE_CXX_11 "Enable C++ 11" OFF)
 option(GLM_ENABLE_CXX_14 "Enable C++ 14" OFF)
 option(GLM_ENABLE_CXX_17 "Enable C++ 17" OFF)
-option(GLM_ENABLE_CXX_20 "Enable C++ 20" OFF)
+option(GLM_ENABLE_CXX_20 "Enable C++ 20" ON)
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
